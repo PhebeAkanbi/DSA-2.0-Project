@@ -6,7 +6,7 @@
 
 ### Overview
 
-This is my first official hand-on practice with Github. The first time i tried it, I was so unclear as to what to do, so a friend had to help me out. I'm really grateful for the opportunity to try it out again, and this time, with a proper guide on how to go about it. Thank You, Incubator Hub. 
+This is my first official hand-on practice with Github. The first time I tried it, I was so unclear as to what to do, so a friend had to help me out. I'm really grateful for the opportunity to try it out again, and this time, with a proper guide on how to go about it. Thank You, Incubator Hub. 
 
 ### Data Sources
 
